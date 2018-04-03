@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">FineCompanion</string>
+    <string name="bleunsupported">Sorry, but Bluetooth Low Energy is not available in this device.</string>
+    <string name="connecting">Connecting to FineDevice</string>
+    <string name="found_toast">Found the device, connecting…</string>
+    <string name="notfound_toast">Not found the device, exiting…</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="connected">Connected!</string>
+    <string name="title_activity_real_main_screen">RealMainScreen</string>
+</resources>
